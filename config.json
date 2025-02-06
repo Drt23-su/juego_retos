@@ -1,7 +1,0 @@
-{
-"host":"172.17.0.4",
-"usuario":"root",
-"contraseña":"1234",
-"base_datos":"CochesDB",
-"puerto":"3306"
-}
